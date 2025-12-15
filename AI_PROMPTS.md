@@ -3,6 +3,7 @@
 ## AI Tools Used
 
 **Amazon Q Developer** - AI coding assistant integrated in IDE
+**sonnet4.5 thinking** - AI coding assistant integrated in Cursor
 
 ## Key Prompts Used
 
