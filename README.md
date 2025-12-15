@@ -80,8 +80,6 @@ Open http://localhost:3000
 
 📖 **[Frontend Documentation](frontend/README.md)** - Components, hooks, architecture
 
-📖 **[Demo Script](DEMO_SCRIPT.md)** - Presentation guide with code walkthrough
-
 📖 **[AI Prompts](AI_PROMPTS.md)** - AI tools and prompts used during development
 
 ## Project Structure
@@ -99,7 +97,6 @@ skill.io/
 │   ├── hooks/              # Custom hooks
 │   └── README.md          # Frontend documentation
 ├── README.md              # This file
-├── DEMO_SCRIPT.md        # Presentation script
 └── AI_PROMPTS.md         # AI assistance documentation
 ```
 
