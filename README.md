@@ -124,3 +124,7 @@ skill.io/
 
 **Additional Demo:**  
 🔗 [Extended Demo](https://www.loom.com/share/213dd54eddc44d8788695b3a4f82306a) - Additional features and functionality
+
+## What can be improve
+- Enhance voice activity detection accuracy with best / custom model
+- When user speak, live transcribed text using streaming / sophisticated technology
