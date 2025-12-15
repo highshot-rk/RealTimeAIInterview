@@ -116,3 +116,11 @@ skill.io/
 - `POST /token` - Generate LiveKit access token
 - `POST /transcribe` - Transcribe audio to text
 - `POST /respond` - Generate AI response with audio
+
+## 🎬 Demo
+
+**Live Application Demo:**  
+🔗 [Watch Full Demo](https://www.loom.com/share/a63220de061a4379b2888f4006fba01b) - Complete walkthrough of the AI voice conversation app
+
+**Additional Demo:**  
+🔗 [Extended Demo](https://www.loom.com/share/213dd54eddc44d8788695b3a4f82306a) - Additional features and functionality
